@@ -1,13 +1,43 @@
-# alstudy
+# README
 
-### Git Fork ~ Pull Request
-1. Fork 를 눌러 본인의 원격 저장소에 해당 레퍼지토리 복사.
-2. bash / command 창에서 로컬 저장소로 이동.
-3. git clone https://github.com/[본인아이디]/[레퍼지토리명] -b [브랜치이름] --single-branch 명령으로 로컬 저장소에 해당 레퍼지토리 복사.
-4. 작업 후, git add [파일명 혹은 폴더명] 명령으로 존재하거나 새로운 파일 스테이징.
-5. git commit -m "메시지" 명령으로 로컬에서 원격 저장소로 커밋.
-6. git push origin [브랜치이름]
-7. 본인의 원격 저장소에서 기존의 원격 저장소로 create new pull request 수행.
-  * 기존 원격 저장소의 master가 아닌 본인 브랜치인지 확인할 것!
-  
-  [참고] [git add/commit/push 취소하기](https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html)
+[TOC]
+
+# 알고리즘 스터디
+
+
+
+> 09.04 ~
+
+[커리큘럼](https://ryute.tistory.com/33)   `백준 알고리즘 길라잡이`
+
+- 탐색과 정렬
+- 백트래킹
+- DFS, BFS
+- DP
+- Greedy
+- 분할 정복
+- Union-Find
+- 최단 경로
+
+
+
+[추가문제](https://programmers.co.kr/learn/challenges)   `프로그래머스 고득점 Kit`
+
+
+
+
+
+## 1st
+
+
+
+> 09.04 ~ 09.11
+
+
+
+- 1.1 탐색과 정렬 (1)
+- 1.2 기초 자료구조 (1)
+- 1.3 탐색과 정렬 (2)
+
+
+
